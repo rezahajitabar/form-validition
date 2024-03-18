@@ -11,9 +11,7 @@ export default class Form extends React.Component {
             firstNameData: '',
             lastNameData: '',
             emailData: '',
-
             submitted: false,
-
             allValid: false
         }
 
